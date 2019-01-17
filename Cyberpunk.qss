@@ -14,9 +14,9 @@
   
   #frame {
       padding: 6px;
-      border-radius: 12px;
+      /* border-radius: 2px; */
       background-color: #061a40;
-      border: 3px solid #f4225a;
+      border: 4px solid #f4225a;
   
     /* Workaround for Qt to get fixed size button*/
       min-width:640px;
